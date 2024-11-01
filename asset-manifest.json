@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-portal-game/static/css/main.799e85e5.css",
+    "main.js": "/react-portal-game/static/js/main.88f1cbdf.js",
+    "static/js/453.db76afc8.chunk.js": "/react-portal-game/static/js/453.db76afc8.chunk.js",
+    "index.html": "/react-portal-game/index.html",
+    "main.799e85e5.css.map": "/react-portal-game/static/css/main.799e85e5.css.map",
+    "main.88f1cbdf.js.map": "/react-portal-game/static/js/main.88f1cbdf.js.map",
+    "453.db76afc8.chunk.js.map": "/react-portal-game/static/js/453.db76afc8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.799e85e5.css",
+    "static/js/main.88f1cbdf.js"
+  ]
+}
